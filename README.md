@@ -1,3 +1,12 @@
+Purpose
+=======
+
+This repository will help you to control some Bubendorff shutting rollers with a raspberry.
+
+![Alt text](soldering_01.jpg?raw=true "Yi camera")
+
+![Alt text](full.jpg?raw=true "Yi camera")
+
 Prerequisites
 =============
 
