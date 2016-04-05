@@ -12,9 +12,18 @@ Prerequisites
 
     # pip install RPi.GPIO
 
+Install
+=======
+
+* Clone this repository
+* Create a script vr_xxxxx.py for your rolling shutter and set the appropriate pin configuration and times in seconds.
+* Test it
+
 
 Usage with Domogik
 ==================
+
+To use it with www.domogik.org, follow the below instructions.
 
 In this release, the librabry can be only called thanks to a dedicated python script called over ssh.
 
